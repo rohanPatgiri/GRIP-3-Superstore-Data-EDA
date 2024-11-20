@@ -1,4 +1,6 @@
 # Datastore Inc. Profit Analysis: Identifying opportunities for improving profits and proposing actionable recommendations for achieving it.
+
+- NOTE: The following blog post presents the analysis in a better, more organized manner : https://rohanrhpt2.substack.com/p/datastore-inc-profit-analysis-identifying
 Table of Contents:
 
     Problem Statement
